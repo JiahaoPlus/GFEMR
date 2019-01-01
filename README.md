@@ -1,5 +1,6 @@
 # Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration
 <div align=center><img src="./result_registration.png"/></div>
+
 ## Introduction
 Retinal image registration, which combines the information of retinal images from different modalities, viewpoints or times, plays an important role in diagnosing and treating many eye diseases. In this work, we propose an efficient algorithm called <b>Gaussian field estimator with manifold regularization (GFEMR)</b> to address this requirement. We formulate the registration problem as a probabilistic model, that is, a Gaussian field estimator, to achieve a robust estimation, associated with a prior involving manifold regularization to preserve the intrinsic geometry of input data. A non-rigid transformation is specified in a reproducing kernel Hilbert space. Moreover, a sparse approximation is applied to the non-rigid transformation for a fast implementation. Extensive experiments on retinal images show the effectiveness of our approach, which can yield superior results compared with other state-of-the-art methods, especially in the case of severely degraded data.
 
