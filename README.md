@@ -10,11 +10,13 @@ The retinal images in this repo are from the RODREP dataset (http://www.rodrep.c
 ## Citation
 If you use our code or models in your research, please cite with:
 ```
-@article{wang2018gaussian,
-  title={Gaussian Field Estimator with Manifold Regularization for Retinal Image Registration},
+@article{wang2019gaussian,
+  title={Gaussian field estimator with manifold regularization for retinal image registration},
   author={Wang, Jiahao and Chen, Jun and Xu, Huihui and Zhang, Shuaibin and Mei, Xiaoguang and Huang, Jun and Ma, Jiayi},
   journal={Signal Processing},
-  year={2018},
+  volume={157},
+  pages={225--235},
+  year={2019},
   publisher={Elsevier}
 }
 ``` 
